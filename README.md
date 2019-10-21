@@ -1,5 +1,13 @@
 # RPS RL with TFJS
 
+
+see demo at
+
+
+https://hpssjellis.github.io/freeCodeCamp/
+
+
+
 This code contains a very basic introduction to Reinforcement learning using TFJS.
 The goal is for this to be interactive:
   - where the player will choose rock, paper or scizzors.
